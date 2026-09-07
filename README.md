@@ -1,7 +1,7 @@
 
 Projeto público: https://entranaregua.lovable.app/entrar
 
-## Como foi construído
+ Como foi construído
 
 Este projeto foi desenvolvido com **vibe coding**, usando o
 [Lovable](https://lovable.dev) para geração do app e o **Claude
