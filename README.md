@@ -1,5 +1,5 @@
 
-https://entranaregua.lovable.app/entrar
+Projeto público: https://entranaregua.lovable.app/entrar
 
 ## Como foi construído
 
