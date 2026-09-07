@@ -1,6 +1,6 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/edd53ddc-4d8f-42e5-8200-22211426fd12" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2844740f-7d5a-428d-9d8e-4479abb66159" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/268fd89f-3948-44b3-abce-ccfcba1a7a16" />
+PRINT 1<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/edd53ddc-4d8f-42e5-8200-22211426fd12" />
+PRINT 2<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2844740f-7d5a-428d-9d8e-4479abb66159" />
+PRINT 3<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/268fd89f-3948-44b3-abce-ccfcba1a7a16" />
 
 Projeto público: https://entranaregua.lovable.app/entrar
 
