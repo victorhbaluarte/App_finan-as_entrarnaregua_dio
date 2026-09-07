@@ -1,3 +1,6 @@
+
+https://entranaregua.lovable.app/entrar
+
 ## Como foi construído
 
 Este projeto foi desenvolvido com **vibe coding**, usando o
